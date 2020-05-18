@@ -7,3 +7,6 @@ $ python3 -m venv venv
 $ pip3 install -r requirements.txt
 $ ./gw2status.py
 ```
+
+## Screenshot
+![screenshot.png](screenshot.png)
